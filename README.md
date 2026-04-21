@@ -112,14 +112,6 @@ Included analysis sheets:
 Target Women customers of age group(30-49) living in Mahrastra,karnataka and UttarPradesh by showing ads/offers/coupons avaiable on Amazon,Flipkart and Myntra. More focus in month of March.
 ---
 
-
-
-## Screenshots
-
-
-
----
-
 ## What I Learned
 
 * Data Cleaning in Excel
